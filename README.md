@@ -1,6 +1,6 @@
 <h1>Olá, sou Renan Neves</h1>
 Estou em uma jornada de aprendizado e desenvolvimento na área de tecnologia.
-##
+<br>
 Meus repositórios públicos mostram um pouco do meu trabalho focado principalmente em:
 
 #<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
