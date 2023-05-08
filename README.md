@@ -2,8 +2,8 @@
 Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na área de tecnologia.
 --Apaixonado por encontrar soluções para problemas e dificuldades e vejo a tecnologia como uma ferramenta nesse processo.
 <br>
---**Formado em Análise e Desenvolvimento de Sistemas**
---Atualmente buscando me aprimorar e crescer nas seguintes tecnologias:
+- **Formado em Análise e Desenvolvimento de Sistemas**
+- Atualmente buscando me aprimorar e crescer nas seguintes tecnologias:
 
 <h2>Tecnologias</h2>
 
