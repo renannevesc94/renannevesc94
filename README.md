@@ -1,7 +1,9 @@
 <h1>Olá, sou Renan Neves</h1>
-Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na área de tecnologia, sou apaixonado por encontrar soluções para problemas e dificuldades e vejo a tecnologia como uma ferramenta nesse processo.
+Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na área de tecnologia.
+--Apaixonado por encontrar soluções para problemas e dificuldades e vejo a tecnologia como uma ferramenta nesse processo.
 <br>
-Formado em Análise e Desenvolvimento de Sistemas, me aprimorando e crescendo nas seguintes tecnologias:
+--**Formado em Análise e Desenvolvimento de Sistemas**
+--Atualmente buscando me aprimorar e crescer nas seguintes tecnologias:
 
 <h2>Tecnologias</h2>
 
