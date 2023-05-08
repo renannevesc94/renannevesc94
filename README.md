@@ -15,4 +15,7 @@ Formado em Análise e Desenvolvimento de Sistemas, me aprimorando e crescendo na
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesc94)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>Contatos</h3>
+<a href = "mailto:renan.epd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renan-neves-a07608275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
