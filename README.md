@@ -15,5 +15,5 @@ Meus repositórios públicos mostram um pouco do meu trabalho focado principalme
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renannevesc94)](https://git.io/streak-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=ok ok)](https://github.com/piyushsuthar/github-readme-quotes)
 
