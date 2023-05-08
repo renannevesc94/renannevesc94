@@ -1,7 +1,7 @@
 <h1>Olá, sou Renan Neves</h1>
-Estou em uma jornada de aprendizado e desenvolvimento na área de tecnologia.
+Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na área de tecnologia, sou apaixonado por encontrar soluções para problemas e dificuldades e vejo a tecnologia como uma ferramenta nesse processo.
 <br>
-Meus repositórios públicos mostram um pouco do meu trabalho focado principalmente em:
+Formado em Análise e Desenvolvimento de Sistemas, me primorando e crescendo nas seguintes tecnologias:
 
 <h2>Tecnologias</h2>
 
