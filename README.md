@@ -16,9 +16,11 @@ Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
+/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesc94)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github.com/PencilNavigator/readme-stats-URL/?username=renannevesc94)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <h3>Contatos</h3>
 <a href = "mailto:renan.epd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
