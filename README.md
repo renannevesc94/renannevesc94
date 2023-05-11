@@ -15,7 +15,9 @@ Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </div>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesc94&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
