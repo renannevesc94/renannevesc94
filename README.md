@@ -1,11 +1,11 @@
-<h1>Hello, I'm Renan Neves</h1>
- I am on a journey of learning and professional and personal development in the technology area.<br>
- -Passionate about finding solutions to problems and difficulties and I see technology as a tool in this process.
+<h1>Olá, meu nome é Renan Neves</h1>
+ Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na área de tecnologia.<br>
+ -Sou apaixonado por encontrar soluções criativas para problemas e dificuldades, vejo a tecnologia como ferramenta nesse processo.
  <br>
- <b>-Graduated in Systems Analysis and Development</b><br>
- - Currently looking to improve and grow in the following technologies:
+ <b>-Graduado em Análise e Desenvolvimento de Sistemas</b><br>
+ - Atualmente buscando aprimorar e crescer nas seguintes tecnologias:
 
- <h2>Technologies</h2>
+ <h2>Tecnologias</h2>
 
  <div><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white"/>
@@ -20,7 +20,7 @@
 
  </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesc94&layout=donut)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesc94&layout=donut)
 
 
 
