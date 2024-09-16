@@ -1,6 +1,13 @@
 <h1>Olá, meu nome é Renan Neves</h1>
- Estou em uma jornada de aprendizado e desenvolvimento profissional e pessoal na área de tecnologia.<br>
- -Sou apaixonado por encontrar soluções criativas para problemas e dificuldades, vejo a tecnologia como ferramenta nesse processo.
+Sou desenvolvedor Full Stack com experiência em tecnologias como React, Javascript,
+Typescript e NodeJS. Participei do bootcamp "Vem ser Tech Ifood" onde fui
+selecionado entre mais de 30 mil candidatos. Durante minha trajetória profissional
+como analista de suporte, desenvolvi soluções que resultaram em redução de custos
+operacionais em até 75% e otimizei processos por meio de integração de APIs e
+automação de sistemas além de ter desenvolvido e colocado em prática habilidades de
+comunicação, gestão de demandas e resolução de problemas. Procuro uma oportunidades
+que me desafiem e me permitam contribuir com minhas habilidades técnicas e continuar
+aprendendo.
  <br>
  <b>-Graduado em Análise e Desenvolvimento de Sistemas</b><br>
  - Atualmente buscando aprimorar e crescer nas seguintes tecnologias:
